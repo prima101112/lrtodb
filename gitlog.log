@@ -1,0 +1,62 @@
+commit 72fca5fc235d22209a1a9b37bcee13f02f4ac410
+Author: example1 <example1@gmail.com>
+Date:   Tue Dec 16 16:19:52 2014 +0700
+
+    add selling fiture
+
+commit a725eda1875deb87c577bec7d9334253dc8d6fcc
+Author: lorem <loremipsum@gmail.com>
+Date:   Tue Dec 16 13:53:04 2014 +0700
+
+    this is message analytic
+    this just try multiple line message
+    o yeah
+
+commit 252dd5541d63e63d5d1da583cc77e4ec5f154657
+Author: lorem <loremipsum@gmail.com>
+Date:   Wed Dec 10 22:17:43 2014 +0700
+
+    this is message
+
+commit 6f97cc5d93908ea1e336f05c341c8ee2d393a4a3
+Author: lorem <loremipsum@gmail.com>
+Date:   Thu Nov 20 03:03:46 2014 +0700
+
+    just message
+
+commit 8b9bc723fa95636ae3527bc4c19745397b41447d
+Author: lorem <loremipsum@gmail.com>
+Date:   Thu Nov 20 02:55:02 2014 +0700
+
+    example log for git
+
+commit f8b4d477677e74521f38864744ace6d3324a3b69
+Author: example1 <example1@gmail.com>
+Date:   Thu Nov 20 01:04:50 2014 +0700
+
+    example log
+
+commit 3a70593f51daaa77ac48cc7cc33f282f5f94ed3a
+Author: lorem <loremipsum@gmail.com>
+Date:   Thu Nov 20 01:02:59 2014 +0700
+
+    add view
+
+commit 6adffa4298aad40e6c7ee517b700614be59fd593
+Author: lorem <loremipsum@gmail.com>
+Date:   Thu Nov 20 00:39:38 2014 +0700
+
+    add form
+
+commit fd322fad81630bdcae30287fb7bbe658aafd9525
+Author: example1 <example1@gmail.com>
+Date:   Wed Nov 19 21:50:47 2014 +0700
+
+    new version
+
+commit 09d7e7e56c0c4751164404948c1df035c56579b5
+Author: lorem <loremipsum@gmail.com>
+Date:   Tue Nov 18 20:07:20 2014 +0700
+
+    initial commit
+
